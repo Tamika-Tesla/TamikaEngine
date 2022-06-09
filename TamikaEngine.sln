@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{66C9D845-3EC3-48BD-9590-2C6B85C5E335}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TamikaEngine", "TamikaEngine\TamikaEngine.vcxproj", "{CF1AC857-380E-48BD-BEBD-82DC918B6DB1}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1AC857-380E-48BD-BEBD-82DC918B6DB1}.Debug|x64.ActiveCfg = Debug|x64
+		{CF1AC857-380E-48BD-BEBD-82DC918B6DB1}.Debug|x64.Build.0 = Debug|x64
+		{CF1AC857-380E-48BD-BEBD-82DC918B6DB1}.Release|x64.ActiveCfg = Release|x64
+		{CF1AC857-380E-48BD-BEBD-82DC918B6DB1}.Release|x64.Build.0 = Release|x64
+		{66C9D845-3EC3-48BD-9590-2C6B85C5E335}.Debug|x64.ActiveCfg = Debug|x64
+		{66C9D845-3EC3-48BD-9590-2C6B85C5E335}.Debug|x64.Build.0 = Debug|x64
+		{66C9D845-3EC3-48BD-9590-2C6B85C5E335}.Release|x64.ActiveCfg = Release|x64
+		{66C9D845-3EC3-48BD-9590-2C6B85C5E335}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C6EFE7-4B97-4367-AC66-2E333EBB00AA}
+	EndGlobalSection
+EndGlobal
