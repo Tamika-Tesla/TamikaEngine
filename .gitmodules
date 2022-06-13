@@ -1,0 +1,3 @@
+[submodule "TamikaEngine/TamikaEngine/vendor/spdlog"]
+	path = TamikaEngine/TamikaEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
